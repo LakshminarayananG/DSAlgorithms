@@ -1,2 +1,14 @@
 
 *.class
+.idea/compiler.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/libraries/Maven__org_webjars_jquery_3_6_0.xml
+.idea/libraries/Maven__org_testng_testng_7_6_1.xml
+.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml
+.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml
+.idea/libraries/Maven__com_beust_jcommander_1_82.xml
+.idea/jarRepositories.xml
+DSAlgorithms.iml
